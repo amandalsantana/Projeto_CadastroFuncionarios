@@ -7,9 +7,9 @@ Enunciado: Você e sua equipe de programadores foram contratados por pequena emp
 
 1) Cadastrar Colaborador 
 2) Consultar Colaborador 
-  a. Consultar Todos  
+  a. Consultar Todos
   b. Consultar por Id; 
   c. Consultar por Setor; 
-3) Retornar ao menu; 
-4) Remover Colaborador; 
-5) Encerrar Programa 
+4) Retornar ao menu; 
+5) Remover Colaborador; 
+6) Encerrar Programa 
